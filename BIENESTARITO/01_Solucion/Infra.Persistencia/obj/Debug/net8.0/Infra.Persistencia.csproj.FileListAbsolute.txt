@@ -1,0 +1,15 @@
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\bin\Debug\net8.0\Infra.Persistencia.deps.json
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\bin\Debug\net8.0\Infra.Persistencia.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\bin\Debug\net8.0\Infra.Persistencia.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\bin\Debug\net8.0\Core.Dominio.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\bin\Debug\net8.0\Core.Dominio.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Persistencia.csproj.AssemblyReference.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Persistencia.AssemblyInfoInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Persistencia.AssemblyInfo.cs
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Persistencia.csproj.CoreCompileInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Pe.100EF017.Up2Date
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Persistencia.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\refint\Infra.Persistencia.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\Infra.Persistencia.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Infra.Persistencia\obj\Debug\net8.0\ref\Infra.Persistencia.dll

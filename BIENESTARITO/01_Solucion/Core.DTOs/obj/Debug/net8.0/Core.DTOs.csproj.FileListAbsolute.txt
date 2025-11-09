@@ -1,0 +1,11 @@
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\bin\Debug\net8.0\Core.DTOs.deps.json
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\bin\Debug\net8.0\Core.DTOs.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\bin\Debug\net8.0\Core.DTOs.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\Core.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\Core.DTOs.AssemblyInfoInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\Core.DTOs.AssemblyInfo.cs
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\Core.DTOs.csproj.CoreCompileInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\Core.DTOs.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\refint\Core.DTOs.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\Core.DTOs.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.DTOs\obj\Debug\net8.0\ref\Core.DTOs.dll

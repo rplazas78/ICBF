@@ -1,0 +1,11 @@
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\bin\Debug\net8.0\Core.Dominio.deps.json
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\bin\Debug\net8.0\Core.Dominio.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\bin\Debug\net8.0\Core.Dominio.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\Core.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\Core.Dominio.AssemblyInfoInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\Core.Dominio.AssemblyInfo.cs
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\Core.Dominio.csproj.CoreCompileInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\Core.Dominio.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\refint\Core.Dominio.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\Core.Dominio.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Dominio\obj\Debug\net8.0\ref\Core.Dominio.dll

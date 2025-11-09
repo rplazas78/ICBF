@@ -1,0 +1,14 @@
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\bin\Debug\net8.0\chatBoot.Database.deps.json
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\bin\Debug\net8.0\chatBoot.Database.runtimeconfig.json
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\bin\Debug\net8.0\chatBoot.Database.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\bin\Debug\net8.0\chatBoot.Database.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.csproj.AssemblyReference.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.AssemblyInfoInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.AssemblyInfo.cs
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.csproj.CoreCompileInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\refint\chatBoot.Database.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\chatBoot.Database.genruntimeconfig.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\chatBoot.Database\obj\Debug\net8.0\ref\chatBoot.Database.dll

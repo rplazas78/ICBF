@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\controllers\\chatbootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:controllers\\chatbootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1E826F-17A0-423E-BD8A-3787A0C13556}|..\\Core.Aplicacion\\Core.Aplicacion.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.aplicacion\\casosuso\\preguntas\\preguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D1A251-7450-4BB2-8953-64AC6873034C}|..\\Core.Dominio\\Core.Dominio.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominio\\utils\\serviceresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1E826F-17A0-423E-BD8A-3787A0C13556}|..\\Core.Aplicacion\\Core.Aplicacion.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.aplicacion\\casosuso\\preguntas\\ipreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D75066-2CB1-47C3-9502-9A25F9FFCC4C}|..\\Infra.Persistencia\\Infra.Persistencia.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\infra.persistencia\\infra.persistencia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D75066-2CB1-47C3-9502-9A25F9FFCC4C}|..\\Infra.Persistencia\\Infra.Persistencia.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\infra.persistencia\\dependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1E826F-17A0-423E-BD8A-3787A0C13556}|..\\Core.Aplicacion\\Core.Aplicacion.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.aplicacion\\casosuso\\autenticacion\\iserviciotoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D75066-2CB1-47C3-9502-9A25F9FFCC4C}|..\\Infra.Persistencia\\Infra.Persistencia.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\infra.persistencia\\infra.persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1FD4B4-930E-4421-878F-62192AC0389D}|..\\Core.DominioServicios\\Core.DominioServicios.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominioservicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1E826F-17A0-423E-BD8A-3787A0C13556}|..\\Core.Aplicacion\\Core.Aplicacion.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.aplicacion\\core.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1FD4B4-930E-4421-878F-62192AC0389D}|..\\Core.DominioServicios\\Core.DominioServicios.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominioservicios\\core.dominioservicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D1A251-7450-4BB2-8953-64AC6873034C}|..\\Core.Dominio\\Core.Dominio.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominio\\core.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1E826F-17A0-423E-BD8A-3787A0C13556}|..\\Core.Aplicacion\\Core.Aplicacion.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.aplicacion\\core.aplicacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D1A251-7450-4BB2-8953-64AC6873034C}|..\\Core.Dominio\\Core.Dominio.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominio\\core.dominio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D75066-2CB1-47C3-9502-9A25F9FFCC4C}|..\\Infra.Persistencia\\Infra.Persistencia.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\infra.persistencia\\options\\dboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1E826F-17A0-423E-BD8A-3787A0C13556}|..\\Core.Aplicacion\\Core.Aplicacion.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.aplicacion\\options\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1E826F-17A0-423E-BD8A-3787A0C13556}|..\\Core.Aplicacion\\Core.Aplicacion.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.aplicacion\\options\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D1A251-7450-4BB2-8953-64AC6873034C}|..\\Core.Dominio\\Core.Dominio.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominio\\entidades\\regional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D1A251-7450-4BB2-8953-64AC6873034C}|..\\Core.Dominio\\Core.Dominio.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominio\\entidades\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551E2A84-9204-48D8-B4C4-F1A79CBC9776}|..\\Core.DTOs\\Core.DTOs.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dtos\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551E2A84-9204-48D8-B4C4-F1A79CBC9776}|..\\Core.DTOs\\Core.DTOs.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dtos\\dtos\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551E2A84-9204-48D8-B4C4-F1A79CBC9776}|..\\Core.DTOs\\Core.DTOs.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D1A251-7450-4BB2-8953-64AC6873034C}|..\\Core.Dominio\\Core.Dominio.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\core.dominio\\entidades\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\chatbotapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:chatbotapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\chatbotapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:chatbotapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|d:\\informacion\\proyectos\\icbf_bog\\hu\\01_chatbots\\01_solucion\\chatbootapi\\chatbootapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{97202E4F-55FA-40A3-A395-7720F12A823D}|chatBotAPI.csproj|solutionrelative:chatbootapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPreguntas.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\CasosUso\\Preguntas\\IPreguntas.cs",
+              "RelativeDocumentMoniker": "..\\Core.Aplicacion\\CasosUso\\Preguntas\\IPreguntas.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\CasosUso\\Preguntas\\IPreguntas.cs",
+              "RelativeToolTip": "..\\Core.Aplicacion\\CasosUso\\Preguntas\\IPreguntas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:11:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Preguntas.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\CasosUso\\Preguntas\\Preguntas.cs",
+              "RelativeDocumentMoniker": "..\\Core.Aplicacion\\CasosUso\\Preguntas\\Preguntas.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\CasosUso\\Preguntas\\Preguntas.cs",
+              "RelativeToolTip": "..\\Core.Aplicacion\\CasosUso\\Preguntas\\Preguntas.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:45:58.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatBootController.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Controllers\\ChatBootController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatBootController.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Controllers\\ChatBootController.cs",
+              "RelativeToolTip": "Controllers\\ChatBootController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAMwGwAAADDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:35:37.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceResponseData.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Utils\\ServiceResponseData.cs",
+              "RelativeDocumentMoniker": "..\\Core.Dominio\\Utils\\ServiceResponseData.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Utils\\ServiceResponseData.cs",
+              "RelativeToolTip": "..\\Core.Dominio\\Utils\\ServiceResponseData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:44:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infra.Persistencia",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "RelativeDocumentMoniker": "..\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "RelativeToolTip": "..\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T02:59:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Models\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ChatRequest.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Models\\ChatRequest.cs",
+              "RelativeToolTip": "Models\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:28:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dependencias.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Dependencias.cs",
+              "RelativeDocumentMoniker": "..\\Infra.Persistencia\\Dependencias.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Dependencias.cs",
+              "RelativeToolTip": "..\\Infra.Persistencia\\Dependencias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:36:36.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Core.Aplicacion.csproj",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "..\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "RelativeToolTip": "..\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T03:04:37.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:05:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IServicioToken.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\CasosUso\\Autenticacion\\IServicioToken.cs",
+              "RelativeDocumentMoniker": "..\\Core.Aplicacion\\CasosUso\\Autenticacion\\IServicioToken.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\CasosUso\\Autenticacion\\IServicioToken.cs",
+              "RelativeToolTip": "..\\Core.Aplicacion\\CasosUso\\Autenticacion\\IServicioToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:54:25.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Infra.Persistencia.csproj",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "RelativeDocumentMoniker": "..\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "RelativeToolTip": "..\\Infra.Persistencia\\Infra.Persistencia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T03:31:04.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Core.DominioServicios.csproj",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DominioServicios\\Core.DominioServicios.csproj",
+              "RelativeDocumentMoniker": "..\\Core.DominioServicios\\Core.DominioServicios.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DominioServicios\\Core.DominioServicios.csproj",
+              "RelativeToolTip": "..\\Core.DominioServicios\\Core.DominioServicios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T03:04:54.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DominioServicios\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Core.DominioServicios\\Class1.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DominioServicios\\Class1.cs",
+              "RelativeToolTip": "..\\Core.DominioServicios\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:29:50.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Core.Aplicacion",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "..\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "RelativeToolTip": "..\\Core.Aplicacion\\Core.Aplicacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T02:59:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Core.Dominio",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Core.Dominio.csproj",
+              "RelativeDocumentMoniker": "..\\Core.Dominio\\Core.Dominio.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Core.Dominio.csproj",
+              "RelativeToolTip": "..\\Core.Dominio\\Core.Dominio.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T03:02:47.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Core.Dominio.csproj",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Core.Dominio.csproj",
+              "RelativeDocumentMoniker": "..\\Core.Dominio\\Core.Dominio.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Core.Dominio.csproj",
+              "RelativeToolTip": "..\\Core.Dominio\\Core.Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T03:04:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBOptions.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Options\\DBOptions.cs",
+              "RelativeDocumentMoniker": "..\\Infra.Persistencia\\Options\\DBOptions.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Infra.Persistencia\\Options\\DBOptions.cs",
+              "RelativeToolTip": "..\\Infra.Persistencia\\Options\\DBOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:48:24.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "authSettings.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Options\\authSettings.cs",
+              "RelativeDocumentMoniker": "..\\Core.Aplicacion\\Options\\authSettings.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Options\\authSettings.cs",
+              "RelativeToolTip": "..\\Core.Aplicacion\\Options\\authSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:43:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:43:23.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T01:46:39.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T02:39:46.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appSettings.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Options\\appSettings.cs",
+              "RelativeDocumentMoniker": "..\\Core.Aplicacion\\Options\\appSettings.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Aplicacion\\Options\\appSettings.cs",
+              "RelativeToolTip": "..\\Core.Aplicacion\\Options\\appSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:41:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Entidades\\Mensaje.cs",
+              "RelativeDocumentMoniker": "..\\Core.Dominio\\Entidades\\Mensaje.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Entidades\\Mensaje.cs",
+              "RelativeToolTip": "..\\Core.Dominio\\Entidades\\Mensaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:10:44.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Regional.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Entidades\\Regional.cs",
+              "RelativeDocumentMoniker": "..\\Core.Dominio\\Entidades\\Regional.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Entidades\\Regional.cs",
+              "RelativeToolTip": "..\\Core.Dominio\\Entidades\\Regional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:10:52.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DTOs\\Dtos\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\Core.DTOs\\Dtos\\LoginDTO.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DTOs\\Dtos\\LoginDTO.cs",
+              "RelativeToolTip": "..\\Core.DTOs\\Dtos\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:10:23.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DTOs\\Dtos\\Chat.cs",
+              "RelativeDocumentMoniker": "..\\Core.DTOs\\Dtos\\Chat.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DTOs\\Dtos\\Chat.cs",
+              "RelativeToolTip": "..\\Core.DTOs\\Dtos\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:16:16.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Core.DTOs\\Class1.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.DTOs\\Class1.cs",
+              "RelativeToolTip": "..\\Core.DTOs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:34:11.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T03:38:40.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Staging.json",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.Staging.json",
+              "RelativeDocumentMoniker": "appsettings.Staging.json",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\appsettings.Staging.json",
+              "RelativeToolTip": "appsettings.Staging.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T03:38:45.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Entidades\\Respuesta.cs",
+              "RelativeDocumentMoniker": "..\\Core.Dominio\\Entidades\\Respuesta.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\Core.Dominio\\Entidades\\Respuesta.cs",
+              "RelativeToolTip": "..\\Core.Dominio\\Entidades\\Respuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:31:59.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T02:08:42.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "chatBotAPI",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\chatBotAPI.csproj",
+              "RelativeDocumentMoniker": "chatBotAPI.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\chatBotAPI.csproj",
+              "RelativeToolTip": "chatBotAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T00:10:50.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:47:25.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "chatBotAPI.csproj",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\chatBotAPI.csproj",
+              "RelativeDocumentMoniker": "chatBotAPI.csproj",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\chatBotAPI.csproj",
+              "RelativeToolTip": "chatBotAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T01:22:07.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "chatBootAPI.http",
+              "DocumentMoniker": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\chatBootAPI.http",
+              "RelativeDocumentMoniker": "chatBootAPI.http",
+              "ToolTip": "D:\\Informacion\\Proyectos\\ICBF_BOG\\HU\\01_ChatBots\\01_Solucion\\chatBootAPI\\chatBootAPI.http",
+              "RelativeToolTip": "chatBootAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-08T02:47:21.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\bin\Debug\net8.0\Core.Aplicacion.deps.json
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\bin\Debug\net8.0\Core.Aplicacion.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\bin\Debug\net8.0\Core.Aplicacion.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Aplicacion.AssemblyInfoInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Aplicacion.AssemblyInfo.cs
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Aplicacion.csproj.CoreCompileInputs.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Aplicacion.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\refint\Core.Aplicacion.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Aplicacion.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\ref\Core.Aplicacion.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Aplicacion.csproj.AssemblyReference.cache
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\bin\Debug\net8.0\Core.Dominio.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\bin\Debug\net8.0\Infra.Persistencia.dll
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\bin\Debug\net8.0\Infra.Persistencia.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\bin\Debug\net8.0\Core.Dominio.pdb
+D:\Informacion\Proyectos\ICBF_BOG\HU\01_ChatBots\01_Solucion\Core.Aplicacion\obj\Debug\net8.0\Core.Apl.FF732B15.Up2Date
