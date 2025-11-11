@@ -53,7 +53,7 @@ namespace chatBotAPI.Controllers
             //OPCIÓN FINALIZAR
             if (texto == "100" || textoAnterior == "100" || texto == "FINALIZAR")
             {
-                var preguntas = _preguntas.VolverMenuAnterior(contextoAnterior, texto, textoAnterior);
+                var preguntas = _preguntas.FinalizarChat(contextoAnterior);
                 return Ok(preguntas);
             }
 
